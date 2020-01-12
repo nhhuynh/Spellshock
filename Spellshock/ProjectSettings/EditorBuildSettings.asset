@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Spellshock.unity
+    guid: e76d732a5ea262a4288b430de3cc1973
+  m_configObjects: {}
